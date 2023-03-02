@@ -21,4 +21,4 @@ I learned the usage of prompt alerts.
 # Screenshot
 
 # Link to Webpage
-https://eshiff.github.io/horiseionrefactor/
+https://eshiff.github.io/password-randomizer/
