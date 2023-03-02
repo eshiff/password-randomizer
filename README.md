@@ -1,13 +1,4 @@
 
-
-
-## Contribution
-You can contribute to this application by opening a pull request at github.com/eshiff/password-randomizer.  Currently there are no rules or standards for contribution.
-## Questions
-Known erros and other issues can be raised to the repository on github at github.com/eshiff/password-randomizer , or can be sent to my github profile at github.com/eshiff. As last resort, questions can be emailed to me directly at eshiff2132@gmail.com
-
-
-
 # Description
 The password generator is an application that can be used to generate a random password based on the criteria the user has selected. It avoids the problem of creating similar or repetative passwords that could be easily hacked. In addition to avoiding repetative passwords, it makes it harder for your password to be compromised.
 # What was the motivation?
