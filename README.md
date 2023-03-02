@@ -10,6 +10,7 @@ The problems I solved was finished up the missing code so we can have a fully fu
 # What did I learn?
 I learned the usage of prompt alerts.
 # Screenshot
+![Screenshot 2023-03-01 190942](https://user-images.githubusercontent.com/118403195/222305423-def2071f-545e-4be2-ba4b-de1ac6fa0f6a.png)
 
 # Link to Webpage
 https://eshiff.github.io/password-randomizer/
