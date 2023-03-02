@@ -16,7 +16,5 @@ Functions that you will use to to use the application once you have installed it
 Prompts if/else statements, event listeners
 ## Contribution
 You can contribute to this application by opening a pull request at github.com/eshiff/password-randomizer.  Currently there are no rules or standards for contribution.
-## License
-some license
 ## Questions
 Known erros and other issues can be raised to the repository on github at github.com/eshiff/password-randomizer , or can be sent to my github profile at github.com/eshiff. As last resort, questions can be emailed to me directly at eshiff2132@gmail.com
